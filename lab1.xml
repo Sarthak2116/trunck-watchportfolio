@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<studentresult>
+<student>
+<stuname>Sarthak</stuname>
+<sturole>72</sturole>
+<subject>
+<sub1>Physics<marks>100</marks></sub1>
+<sub2>Chem<marks>100</marks></sub2>
+<sub3>Maths<marks>100</marks></sub3>
+<sub4>xml<marks>100</marks></sub4>
+</subject>
+<totalmarks> 400</totalmarks>
+<percentage> 100</percentage>
+<result> pass</result>
+</student>
+
+
+<student>
+<stuname>Shivank</stuname>
+<sturole>82</sturole>
+<subject>
+<sub1>Physics<marks>98</marks></sub1>
+<sub2>Chem<marks>98</marks></sub2>
+<sub3>Maths<marks>98</marks></sub3>
+</subject>
+<totalmarks> 294</totalmarks>
+<percentage> 98</percentage>
+<result> pass</result>
+</student>
+
+<student>
+<stuname>Shaurya</stuname>
+<sturole>78</sturole>
+<subject>
+<sub1>Physics<marks>99</marks></sub1>
+<sub2>Chem<marks>99</marks></sub2>
+<sub3>Maths<marks>99</marks></sub3>
+</subject>
+<totalmarks> 297</totalmarks>
+<percentage> 99</percentage>
+<result> pass</result>
+</student>
+</studentresult>

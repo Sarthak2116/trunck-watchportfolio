@@ -1,0 +1,15 @@
+<?php
+session_start();
+if(isset($_SESSION['p1']))
+{
+session_destroy();
+header("Location:home.php");
+exit;
+}
+else
+{
+session_destroy();
+header("Location:login.php");
+exit;	
+}
+?>
